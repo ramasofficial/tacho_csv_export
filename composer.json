@@ -1,0 +1,15 @@
+{
+    "name": "ramas/tacho",
+    "description": "Simple TACHO read application.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ramas",
+            "email": "web.sprendimai4@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Tacho\\": "src/"}
+    }
+}
